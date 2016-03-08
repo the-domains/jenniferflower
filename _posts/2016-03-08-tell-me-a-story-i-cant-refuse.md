@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "I've been collecting titles for a long time. I keep them in a Notes file on my phone for when the urge strikes me. I either have the urge to add one, or I have the ... oh wait a minute, I haven't had the urge to use one.\_"
-datePublished: '2016-03-08T16:42:59.720Z'
-dateModified: '2016-03-08T16:42:31.478Z'
+description: "I've been collecting titles. I keep them for when the urge strikes me. I either have the urge to add one, or I have the ... oh wait a minute, I haven't had the urge to use one.\_"
+datePublished: '2016-03-08T17:45:24.994Z'
+dateModified: '2016-03-08T17:33:23.179Z'
 title: "Tell Me a Story I Can't Refuse"
 author: []
 sourcePath: _posts/2016-03-08-tell-me-a-story-i-cant-refuse.md
@@ -22,13 +22,11 @@ url: tell-me-a-story-i-cant-refuse/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c42ff960-5f87-46fc-a89d-733644045135.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab99268b-2daa-4db9-821f-d9d5a42d52ad.jpg)
 
 # Tell Me a Story I Can't Refuse
 
-I've been collecting titles for a long time. I keep them in a Notes file on my phone for when the urge strikes me. I either have the urge to add one, or I have the ... oh wait a minute, I haven't had the urge to use one. 
-
-Until now.
+I've been collecting titles. I keep them for when the urge strikes me. I either have the urge to add one, or I have the ... oh wait a minute, I haven't had the urge to use one. 
 
 How long's it been? Years? Oh well.
 
@@ -54,11 +52,11 @@ You don't know what a secret really needs in order to preserve it well because, 
 
 Do I need to spend a lot of time alone? Or do I force myself to be with other people because, after all, I'm eating for two?
 
-I'm eating experience.  And I don't get enough when I'm by myself.
+I'm eating experience. And I don't get enough when I'm by myself.
 
 Opening the door, coaxing it out, or just turning my back in the hopes that it will skulk out, hoping not to be seen ... it's not a sure thing either way.  
 
-I don't even know that I'll leave the door open long enough. I might end up closing the door before the hind legs of my secret -- in my case, probably cousin to a Tw0-toed Sloth -- manages to clear the area. 
+I don't even know that I'll leave the door open long enough. I might end up closing the door before the hind legs of my secret -- in my case, probably cousin to a Two-toed Sloth -- manages to clear the area. 
 
 I could end up with the hind legs of my secret locked up again for all eternity because I didn't have the patience to wait!
 
@@ -68,7 +66,7 @@ What can the foreparts of my secret do without the hind parts? Will I have impai
 
 Yes.  
 
-I have impaired my chances before I've even gotten going because the door is still (mostly) closed. Right now, as we talk.  
+I have impaired my chances before I've even gotten going because the door is still (mostly) closed. 
 
 Every now and then I hear the sibilance of my caged secret losing air.  
 
