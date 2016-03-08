@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I've been collecting titles for a long time. I keep them in a Notes file on my phone for when the urge strikes me. I either have the urge to add one, or I have the ... oh wait a minute, I haven't had the urge to use one.\_"
-datePublished: '2016-03-08T16:40:19.987Z'
-dateModified: '2016-03-08T16:39:27.840Z'
+datePublished: '2016-03-08T16:42:59.720Z'
+dateModified: '2016-03-08T16:42:31.478Z'
 title: "Tell Me a Story I Can't Refuse"
 author: []
+sourcePath: _posts/2016-03-08-tell-me-a-story-i-cant-refuse.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-tell-me-a-story-i-cant-refuse.md
-published: true
 url: tell-me-a-story-i-cant-refuse/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c42ff960-5f87-46fc-a89d-733644045135.jpg)
+
 # Tell Me a Story I Can't Refuse
 
 I've been collecting titles for a long time. I keep them in a Notes file on my phone for when the urge strikes me. I either have the urge to add one, or I have the ... oh wait a minute, I haven't had the urge to use one. 
