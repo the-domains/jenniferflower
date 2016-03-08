@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I've been collecting titles. I keep them for when the urge strikes me. I either have the urge to add one, or I have the ... oh wait a minute, I haven't had the urge to use one.\_"
-datePublished: '2016-03-08T19:07:58.936Z'
-dateModified: '2016-03-08T19:07:27.834Z'
+datePublished: '2016-03-08T19:19:37.507Z'
+dateModified: '2016-03-08T19:19:36.949Z'
 title: "Tell Me a Story I Can't Refuse"
 author: []
 sourcePath: _posts/2016-03-08-tell-me-a-story-i-cant-refuse.md
@@ -28,7 +28,7 @@ _type: Article
 
 I've been collecting titles. I keep them for when the urge strikes me. I either have the urge to add one, or I have the ... oh wait a minute, I haven't had the urge to use one. 
 
-How long's it been? Years? Oh well.
+How long's it been? Years?
 
 Titles are nodes. They crystallize something you don't know what. You may never know but you certainly won't know until you use one.  
 
