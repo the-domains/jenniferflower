@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I've been collecting titles. I keep them for when the urge strikes me. I either have the urge to add one, or I have the ... oh wait a minute, I haven't had the urge to use one.\_"
-datePublished: '2016-03-09T00:11:05.240Z'
-dateModified: '2016-03-09T00:10:56.114Z'
+datePublished: '2016-03-09T16:49:13.668Z'
+dateModified: '2016-03-09T16:48:50.312Z'
 title: "Tell Me a Story I Can't Refuse"
 author: []
 sourcePath: _posts/2016-03-08-tell-me-a-story-i-cant-refuse.md
@@ -22,9 +22,8 @@ url: tell-me-a-story-i-cant-refuse/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a39e0273-828c-48bc-8ca5-e54578d3a53b.jpg)
-
 # Tell Me a Story I Can't Refuse
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a50c3d6-24b2-4066-8552-535db3e250ec.jpg)
 
 I've been collecting titles. I keep them for when the urge strikes me. I either have the urge to add one, or I have the ... oh wait a minute, I haven't had the urge to use one. 
 
