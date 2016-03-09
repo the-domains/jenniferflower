@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "I've been collecting titles. I keep them for when the urge strikes me. I either have the urge to add one, or I have the ... oh wait a minute, I haven't had the urge to use one.\_"
-datePublished: '2016-03-08T19:19:37.507Z'
-dateModified: '2016-03-08T19:19:36.949Z'
+datePublished: '2016-03-09T00:11:05.240Z'
+dateModified: '2016-03-09T00:10:56.114Z'
 title: "Tell Me a Story I Can't Refuse"
 author: []
 sourcePath: _posts/2016-03-08-tell-me-a-story-i-cant-refuse.md
@@ -48,17 +48,17 @@ The stakes get higher the longer you keep your secret.
 
 And the maintenance! My god, the maintenance on these things is a beast. 
 
-You don't know what a secret really needs in order to preserve it well because, as I mentioned before, you don't know what it is. Do I feed it beautiful sounds and lovely experiences? Do I stoke it with harsh realities and surprises? 
+You don't know what a secret really needs in order to preserve it well because, as I mentioned before, you don't know what it is. Do I feed it with peachy sunsets and burbling brooks? Or do I stoke it with gorey footage and vicious gossip? 
 
 Do I need to spend a lot of time alone? Or do I force myself to be with other people because, after all, I'm eating for two?
 
 I'm eating experience. And I don't get enough when I'm by myself.
 
-Opening the door, coaxing it out, or just turning my back in the hopes that it will skulk out, hoping not to be seen ... it's not a sure thing either way.  
+Opening the door to the secret and coaxing it out, or just turning my back in the hopes that it will skulk out, hoping not to be seen ... it's not a sure thing either way.  
 
 I don't even know that I'll leave the door open long enough. I might end up closing the door before the hind legs of my secret -- in my case, probably cousin to a Two-toed Sloth -- manages to clear the area. 
 
-I could end up with the hind legs of my secret locked up again for all eternity because I didn't have the patience to wait!
+I could end up with the business end of my secret locked up again for all eternity because I didn't have the patience to wait!
 
 But I've waited aaalllllll this tiiiiiiime!!
 
@@ -66,9 +66,9 @@ What can the foreparts of my secret do without the hind parts? Will I have impai
 
 Yes.  
 
-I have impaired my chances before I've even gotten going because the door is still (mostly) closed. 
+I have impaired my chances before I've even gotten going because the door is still mostly closed. 
 
-Every now and then I hear the sibilance of my caged secret losing air.  
+Except for the sibilance of my caged secret losing air.  
 
 I don't have much more time left. I don't think.
 
@@ -84,7 +84,7 @@ That's not the kind of secret I'm talking about.
 
 I'm talking about the kind of secret that's a secret from you. 
 
-Chances are, it's very very old. And you can tell, it's probably not a big hairy monster.
+Chances are, it's very very old. And often you can tell, it's probably not a big hairy monster.
 
 It's what's possible. 
 
