@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-11T16:20:43.212Z'
-dateModified: '2016-03-11T16:19:13.042Z'
+description: "So it’s come to this. All roads pointing.\_"
+datePublished: '2016-03-11T18:28:34.697Z'
+dateModified: '2016-03-11T18:27:48.968Z'
 title: "The Car's the Thing"
 author: []
 authors: []
@@ -36,9 +36,9 @@ We know we like the sense that we're going somewhere, or if we're not right now,
 
 We know how easy it is to turn the key.
 
-Right now, Joe and I only own vehicles. No, I agree it's not a good financial decision.
+Right now, Joe and I own only vehicles. No, I agree it's not a good financial decision.
 
-Unless you count the feeling we have had from each of our cars, RVs, and boats. Each had a different flavor, had been somewhere the others had not went (yes dear, I know that's not grammatical).
+Unless you count the feeling we have had from each of our cars, RVs, and boats. Each has had a different flavor, has been somewhere the others had not went (yes dear, I know that's not grammatical).
 
 Did I mention they were all well used when we bought them?
 
@@ -50,7 +50,7 @@ Measuring is not a good substitute for ... everything.
 
 Judging from the productivity literature, you could well have arrived at this point in your life believing that measuring is what you should be living for.
 
-Oh, but then there's the other camp, the Seth Godin camp, which is quite large, which resists incrementalism and embraces art.
+Oh, but then there's the other camp, the [Seth Godin][0] camp, which is quite large, which resists incrementalism and embraces art.
 
 I'd have to say I'm in the art camp, but I doubt he means that we shouldn't measure anything. He just warns against trying to incrementalize your way to success.
 
@@ -72,7 +72,7 @@ Then I had to take a bath. I just had to because it was getting ridiculous.
 
 I won't go into detail.
 
-Then I had to put a laundry in the washing machine.
+Then I had to put the laundry in the washing machine.
 
 Then I had to make my Bulletproof Coffee.
 
@@ -99,3 +99,5 @@ In the car.
 Where it's quiet.
 
 And full of possibility.
+
+[0]: http://sethgodin.com/sg/
