@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-11T16:13:47.794Z'
-dateModified: '2016-03-11T16:12:34.760Z'
+datePublished: '2016-03-11T16:14:28.120Z'
+dateModified: '2016-03-11T16:13:50.384Z'
 title: "The Car's the Thing"
 author: []
 authors: []
@@ -30,9 +30,7 @@ So it's come to this. All roads pointing.
 
 To the car.
 
-Many of us have known this in some form all our lives.
-
-We know that we just prefer vehicles to almost anything else you can occupy. More than those stick-built things stuck on the mud, or concrete sandwiches among many other sandwiches of concrete. 
+Many of us know that we just prefer vehicles to almost anything else you can occupy. More than those stick-built things stuck on the mud, or concrete sandwiches among many other sandwiches of concrete.
 
 We know we like the sense that we're going somewhere, or if we're not right now, then we could be soon.
 
