@@ -1,4 +1,4 @@
-name: JenniferFlower
+name: Jennifer Flower
 favicon: null
 layout_spectrum: 0.03674620552919805
 typography_spectrum: 0.4230051417835057
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#1b1d29'
+    - '#dcd6c6'
+    - '#5b5e63'
+    - '#96746b'
+    - '#b0454a'
   brandStrength: 0.5650796431582421
   lightness: 0.801673447014764
   saturation: 0.005116325803101063
