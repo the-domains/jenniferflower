@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Meaning is not all it’s cracked up to be.
-datePublished: '2016-03-12T19:25:50.176Z'
-dateModified: '2016-03-12T17:06:13.410Z'
+datePublished: '2016-03-12T19:26:36.420Z'
+dateModified: '2016-03-12T19:25:59.289Z'
 title: Nudge to Nymphomania
 author: []
 sourcePath: _posts/2016-03-12-nudge-to-nymphomania.md
@@ -28,7 +28,7 @@ _type: Article
 
 Meaning is not all it's cracked up to be.
 
-Of course, it's what seems to drive us, makes things worth it, gives us a sense of satisfaction, or leaves us in an open loop when it's lacking.
+Of course, it's what seems to drive us, make things worth it, give us a sense of satisfaction, or leave us in an open loop when it's lacking.
 
 OK, so meaning is pretty important.
 
