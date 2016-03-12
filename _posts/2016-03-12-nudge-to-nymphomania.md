@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Meaning is not all it’s cracked up to be.
-datePublished: '2016-03-12T17:06:06.152Z'
-dateModified: '2016-03-12T17:05:48.055Z'
+datePublished: '2016-03-12T19:25:50.176Z'
+dateModified: '2016-03-12T17:06:13.410Z'
 title: Nudge to Nymphomania
 author: []
+sourcePath: _posts/2016-03-12-nudge-to-nymphomania.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-nudge-to-nymphomania.md
-published: true
 url: nudge-to-nymphomania/index.html
 _type: Article
 
