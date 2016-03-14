@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The no-go zone is where you always are, almost.'
-datePublished: '2016-03-14T14:28:27.370Z'
-dateModified: '2016-03-14T14:27:59.380Z'
+datePublished: '2016-03-14T14:39:37.493Z'
+dateModified: '2016-03-14T14:38:47.319Z'
 title: The No-Go Zone
 author: []
+sourcePath: _posts/2016-03-14-the-no-go-zone.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-14-the-no-go-zone.md
-published: true
 url: the-no-go-zone/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/deac3162-1c96-4bfb-bc8c-e5d0d8a3dec8.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ce4c26a-9ffe-4ee5-a2c3-baddb95e14ac.jpg)
 
 # The No-Go Zone
 
@@ -32,13 +32,13 @@ It's what you circle with your back to it, your butt slightly warm from the know
 
 The thing is, it already has.
 
-It hardly helps to know this, because you still do it. You still recruit all your mental capacities on a 24-hour shift to keep that magma in check.
+It hardly helps to know this, because you still do it. You still recruit all your mental capacities on a 24-hour shift to hold that magma in check.
 
 Unless you can't quite keep your guard up at night and the dreams squeak out.
 
 Or they ooze out. Or stampede out.
 
-Did you know that dreams tend to happen in real time?Meaning, that the length of a dream maps on pretty closely to actual time by the clock that someone else is keeping as they watch your eyes flit around in your head.
+Did you know that dreams tend to happen in real time? Meaning, that the length of a dream maps on pretty closely to actual time by the clock that someone else is keeping as they watch your eyes flit around in your head?
 
 If we're keeping track, that means that those minutes are actual minutes in which your conscious mind has said to you, "Yer on yer own, big guy. I'm on break."
 
@@ -48,7 +48,7 @@ A dear friend of mine just stopped taking her antidepressants after 20 years on 
 
 It's not hard to understand. The feelings that are caged back there threaten to tear your guts out.
 
-And frankly, it's not very good for your brain to stay in a chronic state of acute grief for long periods of time. 
+And frankly, it's not much fun to stay in a chronic state of acute grief for long periods of time. 
 
 But I suspect it's worse to stay emotionally dead for long periods of time, which is what depression is.
 
@@ -64,7 +64,7 @@ It's like your whole body is on a single mission to keep something very deep and
 
 That's depression that results from deep emotional insult.
 
-There are probably many causes of depression that needn't be attributed, as people are often tempted to do, to emotional causes.
+There are probably many causes of depression that needn't be attributed, as people are often tempted to do, to emotions.
 
 There's a lot of new science about this.
 
@@ -87,3 +87,4 @@ It's not because I don't have a lot I could say now.
 It's because I'm not ready to say it. I mean, after all, this is in public.
 
 And I'm not sure yet what would be the point.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f8784b3-c493-4188-8618-d97a4447404e.jpg)
