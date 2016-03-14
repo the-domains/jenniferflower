@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The no-go zone is where you always are, almost.'
-datePublished: '2016-03-14T14:39:37.493Z'
-dateModified: '2016-03-14T14:38:47.319Z'
+datePublished: '2016-03-14T15:15:17.191Z'
+dateModified: '2016-03-14T15:15:08.379Z'
 title: The No-Go Zone
 author: []
 sourcePath: _posts/2016-03-14-the-no-go-zone.md
@@ -77,6 +77,8 @@ Chances are there's been a vicious cycle, in which my personality and defensive 
 Sounds official doesn't it?
 
 Well, sure. I didn't get educated up the wazoo and come out with multiple degrees yet lack the ability to distance myself from my experience with technical language! What kind of professional would I be?
+
+(_That's a joke, BTW. No good professional would treat a patient that way. But we do it with ourselves surprisingly often._)
 
 But yup, that's probably one of many reasons I left my therapist's chair to see what real life was like. I had to break the cycle somehow and the world I was operating in was not helping me.
 
