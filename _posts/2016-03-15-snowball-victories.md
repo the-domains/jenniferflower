@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "When I was a kid, the modal winter pic was someone who’d just gotten a snowball in the face. It happened to me only twice.\_"
-datePublished: '2016-03-15T16:42:44.625Z'
-dateModified: '2016-03-15T16:42:32.259Z'
+datePublished: '2016-03-15T16:46:28.749Z'
+dateModified: '2016-03-15T16:44:13.712Z'
 title: Snowball Victories
 author: []
+sourcePath: _posts/2016-03-15-snowball-victories.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-15-snowball-victories.md
-published: true
 url: snowball-victories/index.html
 _type: Article
 
@@ -26,7 +26,7 @@ _type: Article
 
 # Snowball Victories
 
-When I was a kid, the modal winter pic was someone who'd just gotten a snowball in the face. It happened to me only twice. 
+When I was a kid, the modal winter pic was of someone who'd just gotten a snowball in the face. It happened to me only twice. 
 
 It was just the thing at the time. A snowball in the face.
 
