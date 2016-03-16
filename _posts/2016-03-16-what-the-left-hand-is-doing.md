@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'When I was in graduate school there was a lot of fuss about laterality. Which hemisphere of the brain does what, that sort of thing.'
-datePublished: '2016-03-16T17:53:29.612Z'
-dateModified: '2016-03-16T17:52:12.246Z'
+datePublished: '2016-03-16T17:58:39.981Z'
+dateModified: '2016-03-16T17:58:00.762Z'
 title: What the Left Hand is Doing
 author: []
+sourcePath: _posts/2016-03-16-what-the-left-hand-is-doing.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-what-the-left-hand-is-doing.md
-published: true
 url: what-the-left-hand-is-doing/index.html
 _type: Article
 
@@ -44,7 +44,7 @@ So the left side doesn't get the news.
 
 And vice versa.
 
-Jill Bolte Taylor is famous for telling the story of the blissful result of a massive stroke to her left hemisphere, leaving her right hemisphere to run the show.
+[Jill Bolte Taylor][0] is famous for telling the story of the blissful result of a massive stroke to her left hemisphere, leaving her right hemisphere to run the show.
 
 The feeling of oneness with the world was ecstatic and overwhelming.
 
@@ -131,3 +131,5 @@ Theory or no, emergence from a poisonous hormonal soup or no, this is finally wh
 On the left side of my brain. 
 
 I'm watching my right brain creep off into the underbrush, checking for permanent injury, scanning something to eat, and considering.
+
+[0]: https://www.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight?language=en
