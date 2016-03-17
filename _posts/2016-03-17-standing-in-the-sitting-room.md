@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: I just got bored. Always a red flag.
-datePublished: '2016-03-17T17:30:09.619Z'
-dateModified: '2016-03-17T17:29:32.348Z'
+datePublished: '2016-03-17T17:32:50.945Z'
+dateModified: '2016-03-17T17:32:50.490Z'
 title: Standing in the Sitting Room
 author: []
 sourcePath: _posts/2016-03-17-standing-in-the-sitting-room.md
@@ -189,6 +189,8 @@ To me, it's more of a sliding scale: you're deciding who and how large your audi
 The advent of blog-type activities makes this whole question deliciously ambiguous.
 
 I'm writing here mostly to myself. You could argue that my fantasy reader is now the few people who have seen this blog. But the fact is, I'm not conscious of them while I'm writing.
+
+The sensation is of something reaching far back, out wide, it's a sensation of space, not of narrowing to one or another ear.
 
 Knowing there's a potential reader breaks the activity out of a circular brain pattern, raising the question of who that fantasy reader is.
 
