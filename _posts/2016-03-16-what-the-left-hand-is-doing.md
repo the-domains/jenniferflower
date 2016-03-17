@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'When I was in graduate school there was a lot of fuss about laterality. Which hemisphere of the brain does what, that sort of thing.'
-datePublished: '2016-03-16T17:58:39.981Z'
-dateModified: '2016-03-16T17:58:00.762Z'
+datePublished: '2016-03-17T02:02:28.135Z'
+dateModified: '2016-03-17T02:01:52.015Z'
 title: What the Left Hand is Doing
 author: []
 sourcePath: _posts/2016-03-16-what-the-left-hand-is-doing.md
@@ -130,6 +130,6 @@ Theory or no, emergence from a poisonous hormonal soup or no, this is finally wh
 
 On the left side of my brain. 
 
-I'm watching my right brain creep off into the underbrush, checking for permanent injury, scanning something to eat, and considering.
+I'm watching my right brain creep off into the underbrush, checking for permanent injury, scanning for something to eat, and considering.
 
 [0]: https://www.ted.com/talks/jill_bolte_taylor_s_powerful_stroke_of_insight?language=en
