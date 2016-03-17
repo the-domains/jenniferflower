@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'I just got bored. '
-datePublished: '2016-03-17T17:21:06.388Z'
-dateModified: '2016-03-17T17:21:02.299Z'
+description: I just got bored. Always a red flag.
+datePublished: '2016-03-17T17:22:53.855Z'
+dateModified: '2016-03-17T17:21:17.119Z'
 title: Standing in the Sitting Room
 author: []
+sourcePath: _posts/2016-03-17-standing-in-the-sitting-room.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-17-standing-in-the-sitting-room.md
-published: true
 url: standing-in-the-sitting-room/index.html
 _type: Article
 
