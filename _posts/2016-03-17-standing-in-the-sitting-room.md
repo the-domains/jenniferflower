@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: I just got bored. Always a red flag.
-datePublished: '2016-03-17T17:32:50.945Z'
-dateModified: '2016-03-17T17:32:50.490Z'
+datePublished: '2016-03-17T18:28:00.804Z'
+dateModified: '2016-03-17T18:27:11.011Z'
 title: Standing in the Sitting Room
 author: []
 sourcePath: _posts/2016-03-17-standing-in-the-sitting-room.md
@@ -28,9 +28,11 @@ _type: Article
 
 I just got bored. Always a red flag.
 
-Until now, I've just been assuming that the way I would approach an idea here would take it's own shape naturally.
+Boredom is rarely what it seems to be, a lack of something. It's often an overfullness of something, akin to trauma, which is a shut-down reaction to stimuli that overwhelm us, disabling our ability to assimilate them.
 
-But I forgot about habit.
+I've just been assuming that the way I would approach an idea here would take it's own shape naturally.
+
+But I forgot about habit. And the prospect of breaking habits always shakes me to me boots.
 
 It was enough to break the habit of not writing. That felt huge.
 
