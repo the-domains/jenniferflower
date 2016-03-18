@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: She wants a check.
-datePublished: '2016-03-18T17:42:16.412Z'
-dateModified: '2016-03-18T17:42:03.869Z'
+datePublished: '2016-03-18T17:53:22.974Z'
+dateModified: '2016-03-18T17:53:05.943Z'
 title: '“We Will Prevail,” Mr. President'
 author: []
 authors: []
@@ -22,7 +22,7 @@ url: we-will-prevail-mr-president/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b64f562c-4a55-4a11-ab44-4380d8edcc60.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21a170de-7068-429d-ab52-cafaab85dfd3.jpg)
 
 # "We Will Prevail," Mr. President
 
@@ -58,7 +58,9 @@ Who we are makes sense
 
 when you take space into account.
 
-The terrible passage was dark, mean, hopeless,
+The terrible passage 
+
+was dark, mean, hopeless,
 
 the passage, under those creaky boards.
 
@@ -70,4 +72,7 @@ They sang their way here
 
 and we'll sing our way there.
 
-(On hearing Nikki Giovanni _On Being)_
+  
+_(On hearing Nikki Giovanni [On Being][0])_
+
+[0]: http://www.onbeing.org/program/nikki-giovanni-soul-food-sex-and-space/8501
