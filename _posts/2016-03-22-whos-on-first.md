@@ -11,8 +11,8 @@ description: >-
   what I’m going to do and actually doing it, between what I was thinking about
 
   and why.
-datePublished: '2016-03-23T04:16:11.236Z'
-dateModified: '2016-03-23T03:24:19.136Z'
+datePublished: '2016-03-23T04:49:16.485Z'
+dateModified: '2016-03-23T04:49:14.850Z'
 title: "Who's on First?"
 author: []
 sourcePath: _posts/2016-03-22-whos-on-first.md
@@ -91,7 +91,7 @@ triple, in numbers.
 I am always reminded of the scenes in the first Matrix
 movie, where the rebels are in their hovercraft in the bowels of the system
 and then they hear a Sentinel, a bug-like drone with tentacles, coming in search
-to destroy them. The rebels shut down their engines on the hovercraft and stay
+to destroy them. The rebels shut down their engines and stay
 reaaalllly reaaalllly quiet until the Sentinel moves on. The rebels are the
 good guys in the Matrix.
 
@@ -101,7 +101,7 @@ unfriendly bacteria, I don't know exactly who they are, but right now I have a h
 DO YOU HEAR ME, ALIENS?
 
 Unfortunately, they're right and I'm wrong. For most of my life they actually have been
-welcome in the sense that my body has never put up enough of a fight, automatically, to keep them out. I have to keep fighting.
+welcome in the sense that my body has never put up enough of a fight, automatically, to keep them out. I have to keep fighting, over and over again.
 
 Some of us are just too receptive.
 
@@ -136,7 +136,7 @@ environment.
 
 What, as far as you can see, is going on around you?
 
-What does it look like to you and what does it look like to
+What does it look like to you, and what does it look like to
 me, and what do other people say about it?
 
 We're ready to hear a lot of versions of this over a period
@@ -149,7 +149,7 @@ It actually changes your brain.
 
 So, to get back to my point. How do I make sense of what
 feels like a lifelong vulnerability to hostile occupation? Not by assault, but
-by stealth? An occupation in which things take up residence in small ways and
+by stealth? An occupation in which teeny tiny life forms take up residence in small ways, right alongside the ones that are supposed to be there, and
 gradually make their homes in me for the long haul?
 
 I don't notice them until they've gained in numbers and have
@@ -158,9 +158,9 @@ established habits.
 Now, there are versions of this reality that have to do with
 physical properties and circumstances that predispose you to infection, like
 many years on and off antibiotics that purge you of the healthy flora in your
-gut, along with whatever hostile flora may have been plaguing you, to the point
+gut, along with whatever hostile entities may have been plaguing you, to the point
 where you never really reestablish the internal conditions that routinely ward
-of invaders.
+off invaders.
 
 The problems with too many antibiotics have been well studied and documented. That we've been taking way too many antibiotics is not a
 subject of much controversy any more. It's one of the reasons we, as a society, have been
@@ -187,8 +187,8 @@ passengers on board -- as against when I have fewer -- that my mood is different
 my thinking is slightly different, and I crave carbohydrates -- that's not
 crazy, that's a rational inference from a lot of new science.
 
-Listen to Ed Yong on the TED hour episode called
-Hidden. He talks about this at
+Listen to [Ed Yong on the TED Hour episode called
+Hidden][0]. He talks about this at
 length. I'm going to have to read his
 book, _I Contain Multitudes_, which is due out in August. 
 
@@ -198,3 +198,5 @@ who knows, maybe my passengers want me to get to know them better and that's why
 I'm going to have to read it because I've made up my mind.
 
 For now.
+
+[0]: http://www.npr.org/programs/ted-radio-hour/470514031/hidden
