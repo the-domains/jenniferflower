@@ -11,8 +11,8 @@ description: >-
   what I’m going to do and actually doing it, between what I was thinking about
 
   and why.
-datePublished: '2016-03-23T04:49:16.485Z'
-dateModified: '2016-03-23T04:49:14.850Z'
+datePublished: '2016-03-24T16:13:58.920Z'
+dateModified: '2016-03-24T16:13:37.577Z'
 title: "Who's on First?"
 author: []
 sourcePath: _posts/2016-03-22-whos-on-first.md
@@ -38,7 +38,7 @@ and why.
 The decisions I made yesterday are back on the table.
 
 Caffeine hangs around me for days instead of hours, alcohol pickles my ideas and makes my head weigh
-about twice as any head should. 
+about twice as much as any head should. 
 
 The next morning I have slightly less will to live than
 usual.
@@ -54,8 +54,8 @@ The thing is, most of them have not been old yet.
 Only Ray Kurzweil has been old, but frankly, he's just way
 out there on the scale of what he'll do and how early he started.
 
-Could someone direct me to some really old people who have
-redefined usual using some of the new methods? By really old, I mean old people
+Could someone direct me to some old people who have
+redefined usual using some of the new methods? By old, I mean old people
 by young people's standards but not by ours. Like 50s. 60s. 70s.
 
 Boomers.
@@ -96,7 +96,7 @@ reaaalllly reaaalllly quiet until the Sentinel moves on. The rebels are the
 good guys in the Matrix.
 
 In my body, the rebels are the bad guys -- yeast, parasites,
-unfriendly bacteria, I don't know exactly who they are, but right now I have a host of these aliens inside me who are not welcome.
+unfriendly bacteria, I don't know exactly who they are, but right now I feel like I have a host of these aliens inside me who are not welcome.
 
 DO YOU HEAR ME, ALIENS?
 
@@ -162,7 +162,7 @@ gut, along with whatever hostile entities may have been plaguing you, to the poi
 where you never really reestablish the internal conditions that routinely ward
 off invaders.
 
-The problems with too many antibiotics have been well studied and documented. That we've been taking way too many antibiotics is not a
+The problems with ingesting too many antibiotics (directly or indirectly) have been well studied and documented. That we've been taking way too many antibiotics is not a
 subject of much controversy any more. It's one of the reasons we, as a society, have been
 cracking down on the unnecessary use of antibiotics in our food supply.
 
