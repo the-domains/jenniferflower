@@ -4,8 +4,15 @@
         <description><![CDATA[Jennifer Flower's Blog]]></description>
         <link>https://thegrid.ai/jenniferflower/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 16:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 16:49:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jenniferflower/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Ozone Therapy, Colonics: The Straight Path?</p>]]></description>
+            <link>https://thegrid.ai/jenniferflower/a42bfa9d-8388-4e7a-a6ee-11f389881c02/index.html</link>
+            <guid isPermaLink="false">a42bfa9d-8388-4e7a-a6ee-11f389881c02</guid>
+            <pubDate>Mon, 28 Mar 2016 16:49:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Who's on First?]]></title>
             <description><![CDATA[<article><h1>Who's on First?</h1><p>Overnight, liquor seeps into the little cavities between
@@ -70,13 +77,6 @@ and why.</p></article>]]></description>
             <link>https://thegrid.ai/jenniferflower/tell-me-a-story-i-cant-refuse/index.html</link>
             <guid isPermaLink="false">d3d9d0f6-43c2-4660-b6a1-92f7c38d15e8</guid>
             <pubDate>Wed, 09 Mar 2016 16:49:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Brain Cleansing]]></title>
-            <description><![CDATA[<article><h1>Brain Cleansing</h1><p>If you call it cleansing, it means you're talking about your (sacred) body. If you call it cleaning, it's about something under the rim inside your toilet.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5d1a28d8982e35002fb3317b37109fdd577f57d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/jenniferflower/3ea03c28-9248-41f4-b25d-c617730309f8/index.html</link>
-            <guid isPermaLink="false">3ea03c28-9248-41f4-b25d-c617730309f8</guid>
-            <pubDate>Wed, 09 Mar 2016 16:51:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
