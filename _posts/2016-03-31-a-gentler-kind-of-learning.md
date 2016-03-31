@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The farther into academia you get, the more you have a choice about how much drubbing you want.'
-datePublished: '2016-03-31T15:37:21.046Z'
-dateModified: '2016-03-11T18:01:10.738Z'
+datePublished: '2016-03-31T15:58:02.609Z'
+dateModified: '2016-03-31T15:57:57.307Z'
 title: A Gentler Kind of Learning
 author: []
+sourcePath: _posts/2016-03-31-a-gentler-kind-of-learning.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-31-a-gentler-kind-of-learning.md
-published: true
 url: a-gentler-kind-of-learning/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9efea954-1c89-41e1-8946-552ad4d8d96e.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b242f57-c405-4175-a0de-9385495b3042.jpg)
 
 # A Gentler Kind of Learning
 
@@ -72,25 +72,27 @@ And the system's been getting a little more of it every year from people who rec
 
 But, you may counter, we can't all be independent and generative and sacrifice obedience. That's a class privilege. The rest of us have to suck it up and get along.
 
-I didn't say sacrifice obedience. I said not so much. 
+I didn't say sacrifice obedience. I said not so much. But it's even more important for people without power to learn a way to shape their own realities that doesn't get them into big bad trouble.
 
-I agree that in some ways it's a class privilege in the sense that in order to achieve a higher economic class via entrepreneurship,  you've got to get this independence/generativity thing down. 
+In some ways it's a class privilege or at least a class opportunity in the sense that in order to achieve a higher economic class via entrepreneurship,  you've got to get this independence/generativity thing down. 
 
-And you need to it distinguish yourself from others in business or the arts who have fewer ideas and less boldness to share them in the right time and the right place, which are not so easy to determine.
+And you need to distinguish yourself from others in business or the arts who have fewer ideas and less boldness to share them in the right time and the right place, which are not so easy to determine.
 
-And then there are a lot of other folks in our society who barely manage by keeping their heads down. They're the cogs in the machine.
+What about all those folks in our society who just barely manage by keeping their heads down. They're the cogs in the machine.
 
 But is that the way it has to be?
 
-So no, I don't know exactly what the right balance is. And anyway, what would a society full of people who all have the same qualities look like?  
+I don't know. 
 
-I guess people always vary and we don't have to worry too much about being identical.
+I don't know exactly what the right balance is. And anyway, what would a society full of people who all have the same qualities look like?  
+
+I guess people always vary and we don't have to worry too much about being identical. It's impossible and undesirable. 
 
 We have a long way to go before our public education system is leaning too hard on the independence and generativity side and away from obedience.
 
-Before we go too much farther though, let's check on our definition of independence. One kind of independence is not a class privilege for the few who take it and run with it. 
+Before we go too much farther though, let's check on our definition of independence. One kind of independence, it's true, is a class privilege for the few who take it and run with it. 
 
-To me, independence of mind is the mind's ability to value itself, its ideas, the importance of contributing, and of doing it with originality and mental toughness (by which I mean strength, not obduracy). 
+Let's talk about independence of mind, then: the mind's ability to value itself, its ideas, the importance of contributing, and of doing it with originality and mental toughness (by which I mean strength and occasional obduracy). 
 
 Independence is not unqualified freedom.
 
@@ -98,12 +100,14 @@ I want to say that the choice we have to make is between inculcation and evocati
 
 We're inculcating the value of emerging instead of swallowing whoever you were starting to feel yourself to be in favor of being someone the others want you to be.
 
-So what's the alternative? 
+The Montessori folks have the right idea about this. I'm not expert on Montessori either, I'm just talking about the idea of inviting what's inside the child instead of rote-training it out. 
 
-Emergence.
+Some of the most important skills we need to learn are in how to read the signals, and many of those signals are sent by people at higher class levels.  
 
-The Montessori folks have the right idea about this. I'm not expert on Montessori either, I'm just talking about the idea of inviting what's inside the child instead of rote-training it out.
+Whatever level you're operating at, emotional literacy, that is, how to read your own emotions and the emotions of others, is going to be key in determining how flexibly you move among situations. Emotional literacy is taught way too infrequently, Sesame Street notwithstanding.
+
+If you were to rely entirely on a Sesame Street level of emotional literacy, you would fail at some of the most important life challenges -- reading motivation, layered meanings, appreciating the role and inevitability of ambivalence, and identifying psychopathology early, if just by feel.
+
+What you're doing is making your world safe for your own emergence.
 
 There are some things I know about it, some things I'm learning about it, and some things about emergence that I'm working on behind the scenes.
-
-Under this mask I'm wearing.
