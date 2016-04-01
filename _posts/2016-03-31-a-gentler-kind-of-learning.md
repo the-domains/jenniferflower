@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The farther into academia you get, the more you have a choice about how much drubbing you want.'
-datePublished: '2016-03-31T16:41:40.323Z'
-dateModified: '2016-03-31T16:41:05.605Z'
+datePublished: '2016-04-01T20:28:22.963Z'
+dateModified: '2016-04-01T20:27:04.317Z'
 title: A Gentler Kind of Learning
 author: []
 sourcePath: _posts/2016-03-31-a-gentler-kind-of-learning.md
@@ -50,7 +50,7 @@ It's all about fitting in.
 
 I often marvel at how well behaved most people are, even under pretty stressful circumstances. 
 
-It's probably because that shaming, shaping "Behave yourself!" lesson started to take hold when we realized so much good material stuff depended on it.
+It's probably because that shaming, shaping "Behave yourself!" lesson started to take hold when we realized so many goodies depended on it.
 
 No, the injunction isn't always intrinsically shaming. Shaming shows up in the desperation of parents, from their need not to be shamed by having a disobedient child.
 
@@ -74,11 +74,9 @@ But, you may counter, we can't all be independent and creative and sacrifice obe
 
 I didn't say sacrifice obedience. I said not so much. But it's even more important for people without power to learn a way to shape their own realities that doesn't get them into big bad trouble.
 
-In some ways it's a class privilege or at least a class opportunity in the sense that in order to achieve a higher economic class via entrepreneurship or ladder-scaling, you've got to get this independence/generativity thing down. 
+In some ways it's a class privilege or at least a class opportunity in the sense that in order to achieve a higher economic class via entrepreneurship or ladder-scaling, you've got to get this independence/creativity thing down. 
 
 No, I'm not getting into the issue of whether there should be classes at all. I do feel there should at least be a lot fewer differences among the classes.
-
-And if you want to do well financially, you need to distinguish yourself from others in business or the arts who have fewer ideas and less boldness to share them in the right time and the right place, which are not so easy to determine.
 
 What about all those folks in our society who just barely manage by keeping their heads down? The cogs in the machine?
 
@@ -86,7 +84,7 @@ I don't know. I am sure that the kind of dehumanization that goes on in our cult
 
 I don't know exactly what the right balance is between training obedience and training creativity.
 
-I'm not too worried: we have a long way to go before our public education system is leaning too hard on the independence and creativity side and away from obedience as the vaunted value.
+But I'm not too worried: we have a long way to go before our public education system is leaning too hard on the independence and creativity side and away from obedience as the vaunted value.
 
 Before we go too much farther though, let's check on our definition of independence. One kind of independence, it's true, is a class privilege for the few who take it and run with it. 
 
@@ -96,7 +94,7 @@ Independence is not unqualified freedom.
 
 I want to say that the choice we have to make is between inculcation and evocation, but that's not quite right because the process of evoking is a form of inculcating a value.  (Isn't that what we always do with values? Inculcate them?)
 
-We're inculcating the value of emergence instead of swallowing whoever you were starting to feel yourself to be in favor of being someone the others want you to be.
+We're inculcating the value of emergence instead of the value of swallowing whoever you were starting to feel yourself to be in favor of being someone the others want you to be.
 
 The Montessori folks have the right idea about this. I'm not expert on Montessori either, I'm just talking about the idea of inviting what's inside the child instead of rote-training it out. 
 
@@ -111,6 +109,10 @@ If you were to rely entirely on a Sesame Street level of emotional literacy, you
 One kind of psychopathology we could all learn to identify a lot earlier is psychopathy.  Psychopaths have enough emotional literacy to play you. If you're psychologically naive, you will be their mark. 
 
 Look around you. I bet there are more psychopaths per square inch in leadership of various kinds than in many other social positions.
+
+So, the choice between obedience and independence/creativity is a forced choice.  The emotional learning that many of us never do is a mediating power in all this, to minimize the brutality that's inevitable in life, to increase our ability to manage ourselves sympathetically and to manage others empathically, and to recast the realities we are handed into other realities. 
+
+And the cogs? the peons? the obedient? What if we are a part of a team and the team does a critical part of the work that we all need, through which as much responsibility is devolved, a la lean manufacturing, to the people on the line, so that more of the team has input and initiative that evolve the process.
 
 What you're doing when you study emotional literacy is making your world safe for your own emergence.
 
