@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'The farther into academia you get, the more you have a choice about how much drubbing you want.'
-datePublished: '2016-04-01T23:12:54.782Z'
-dateModified: '2016-04-01T23:12:48.996Z'
+datePublished: '2016-04-02T00:46:08.152Z'
+dateModified: '2016-04-02T00:45:45.430Z'
 title: A Gentler Kind of Learning
 author: []
 sourcePath: _posts/2016-03-31-a-gentler-kind-of-learning.md
@@ -112,8 +112,12 @@ Look around you. I bet there are more psychopaths per square inch in leadership 
 
 So, the choice between obedience and independence/creativity is a forced choice.  The emotional learning that many of us never do is a mediating power in all this, to minimize the brutality that's inevitable in life, to increase our ability to manage ourselves sympathetically and to manage others empathically, and to recast the realities we are handed into other realities. 
 
-And the cogs? The peons? The obedient? What if we are part of a team and the team does a critical part of the work that we all need, through which as much responsibility is devolved, a la lean manufacturing, to the people on the line, so that more of the team has input and initiative that evolve the process?
+And the cogs? The peons? The obedient? What if we are each part of a team and the team does a critical part of the work that we all need, through which as much responsibility is devolved, a la lean manufacturing, to the people on the line, so that more of the team has input and initiative that evolve the process?
 
-What you're doing when you study emotional literacy is making your world safe for your own emergence.
+No, this is not a substitute for challenging abusive or unfair business practices, that still needs to happen. My point here is to re-see something, to unyoke the question of how we raise people to think clearly and for themselves from the fallacious idea that some of us have to be automatons.
+
+Besides. Aren't we busy devising a new population of automatons? Who have no human rights because they're machines?  So doesn't that leave us with an even more urgent project, to recognize the unique and valuable contributions that the humans among us can make?
+
+What you're doing when you study emotional literacy is making your world safe for your own emergence as a human being with human gifts.
 
 The alternative to emergence? Drubbing.
