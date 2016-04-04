@@ -4,8 +4,15 @@
         <description><![CDATA[Jennifer Flower's Blog]]></description>
         <link>https://thegrid.ai/jenniferflower/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 00:46:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 21:15:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jenniferflower/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How NOT to RV: The Sequel]]></title>
+            <description><![CDATA[<article><h1>How NOT to RV: The Sequel</h1><p>Years ago I wrote a book called How NOT to RV: An RVers Guide to RVing in the Absurd.It’s a funny instructional book full of cautionary tales, laced with hopefulness and philosophical musings.</p></article>]]></description>
+            <link>https://thegrid.ai/jenniferflower/how-not-to-rv-the-sequel/index.html</link>
+            <guid isPermaLink="false">854999b0-a065-4386-9626-3fedb7f89220</guid>
+            <pubDate>Mon, 04 Apr 2016 21:13:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Gentler Kind of Learning]]></title>
             <description><![CDATA[<article><h1>A Gentler Kind of Learning</h1><p>The farther into academia you get, the more you have a choice about how much drubbing you want.</p></article>]]></description>
@@ -70,13 +77,6 @@ and why.</p></article>]]></description>
             <link>https://thegrid.ai/jenniferflower/nudge-to-nymphomania/index.html</link>
             <guid isPermaLink="false">f5e2f4e3-3bbc-4e42-9762-6e98edf74fed</guid>
             <pubDate>Sat, 12 Mar 2016 19:26:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Car's the Thing]]></title>
-            <description><![CDATA[<article><h1>The Car's the Thing</h1><p>So it’s come to this. All roads pointing. </p></article>]]></description>
-            <link>https://thegrid.ai/jenniferflower/the-cars-the-thing/index.html</link>
-            <guid isPermaLink="false">9f137374-d3fd-48ab-8c80-721cd4244a2a</guid>
-            <pubDate>Fri, 11 Mar 2016 18:28:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
