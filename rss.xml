@@ -4,8 +4,15 @@
         <description><![CDATA[Jennifer Flower's Blog]]></description>
         <link>https://thegrid.ai/jenniferflower/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 21:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2016 16:28:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jenniferflower/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Having the Energy]]></title>
+            <description><![CDATA[<article><h1>Having the Energy</h1><p>Wow, this Influenza B virus is a doozy. It’s been over two weeks and I’m still a wet dishrag.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab797e9a-a95e-4cc4-846a-c0f0846a3d30.jpg"></article>]]></description>
+            <link>https://thegrid.ai/jenniferflower/having-the-energy/index.html</link>
+            <guid isPermaLink="false">5db8221d-c0f8-4a43-9b26-38cb051e1f4e</guid>
+            <pubDate>Fri, 08 Apr 2016 16:27:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How NOT to RV: The Sequel]]></title>
             <description><![CDATA[<article><h1>How NOT to RV: The Sequel</h1><p>Years ago I wrote a book called How NOT to RV: An RVers Guide to RVing in the Absurd.It’s a funny instructional book full of cautionary tales, laced with hopefulness and philosophical musings.</p></article>]]></description>
@@ -70,13 +77,6 @@ and why.</p></article>]]></description>
             <link>https://thegrid.ai/jenniferflower/the-no-go-zone/index.html</link>
             <guid isPermaLink="false">48830052-f626-42cb-9c7d-1f27911b2b4e</guid>
             <pubDate>Mon, 14 Mar 2016 15:15:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Nudge to Nymphomania]]></title>
-            <description><![CDATA[<article><h1>Nudge to Nymphomania</h1><p>Meaning is not all it’s cracked up to be.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec1680914bb635dc937dd434e1d6f01d437827c7.jpg"></article>]]></description>
-            <link>https://thegrid.ai/jenniferflower/nudge-to-nymphomania/index.html</link>
-            <guid isPermaLink="false">f5e2f4e3-3bbc-4e42-9762-6e98edf74fed</guid>
-            <pubDate>Sat, 12 Mar 2016 19:26:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
