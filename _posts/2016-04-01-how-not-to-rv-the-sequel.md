@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Years ago I wrote a book called How NOT to RV: An RVers Guide to RVing in the Absurd.It’s a funny instructional book full of cautionary tales, laced with hopefulness and philosophical musings.'
-datePublished: '2016-04-04T21:13:40.138Z'
-dateModified: '2016-04-01T20:17:26.888Z'
+datePublished: '2016-04-08T16:33:49.095Z'
+dateModified: '2016-04-08T16:33:40.697Z'
 title: 'How NOT to RV: The Sequel'
 author: []
 sourcePath: _posts/2016-04-01-how-not-to-rv-the-sequel.md
@@ -26,7 +26,7 @@ _type: Article
 
 # How NOT to RV: The Sequel
 
-Years ago I wrote a book called [How NOT to RV: An RVers Guide to RVing in the Absurd][0].It's a funny instructional book full of cautionary tales, laced with hopefulness and philosophical musings.
+Years ago I wrote a book called [How NOT to RV: An RVers Guide to RVing in the Absurd][0]. It's a funny instructional book full of cautionary tales, laced with hopefulness and philosophical musings.
 
 I published it on Amazon in a Kindle edition and it's been toddling along ever since with almost no effort from me. People keep buying it and they keep reviewing it well.
 
