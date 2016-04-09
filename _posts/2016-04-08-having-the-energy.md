@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Wow, this Influenza B virus is a doozy. It’s been over two weeks and I’m still a wet dishrag.'
-datePublished: '2016-04-08T16:27:26.978Z'
-dateModified: '2016-04-08T16:27:26.097Z'
+datePublished: '2016-04-09T19:34:56.099Z'
+dateModified: '2016-04-09T19:34:55.579Z'
 title: Having the Energy
 author: []
+sourcePath: _posts/2016-04-08-having-the-energy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-08-having-the-energy.md
-published: true
 url: having-the-energy/index.html
 _type: Article
 
@@ -28,9 +28,9 @@ _type: Article
 
 Wow, this Influenza B virus is a doozy. It's been over two weeks and I'm still a wet dishrag.
 
-My immune system is kinda like, "Oh really? Another assault? Hang one, I'll be right with you. I'm watching a snail."
-
 My husband is feeling a little better than I am but he has a much more aggressive immune system. And a purer heart.
+
+My immune system is kinda like, "Oh really? Another assault? Hang one, I'll be right with you. I'm watching a snail."
 
 I hear this flu usually lingers for another couple of weeks, but our neighbor has been sick for four weeks and he's still getting low-grade fevers.
 
@@ -40,11 +40,11 @@ I suspect my body is just tired of my shenanigans.
 
 One person I know who's been sleeping with the guy and getting coughed on regularly by the guy who's had a fever for four weeks is not getting sick.
 
-She does some serious yoga. And she has clean thoughts. 
+She does serious yoga. And she has clean thoughts. 
 
 OK, well I'm not as sure about the thoughts, but she seems to have the right kind of thoughts.
 
-OK, so I'm not sure what that means but she has a good aura. Which I also can't quite identify.
+And I'm not sure what that means but she has a good aura. Which I also can't quite identify.
 
 I'm getting more and more into yoga again, which is not so controversial.
 
@@ -96,8 +96,6 @@ Is it telepathic?
 
 Is it empathic?
 
-WTF?
-
 So I'm thinking now about all that interesting research that's been done over decades in the Big Bad Country called the Soviet Union. Now Russia et al.
 
 The ex-Soviets have spent a lot of time looking into paranormal phenomena and energetics along with a lot of other stuff I can't quite name.
@@ -124,7 +122,7 @@ So it's not really about just sitting down and telling the truth, it's about wor
 
 Truth is not the starting point, despite what many purists will tell you.
 
-So I'm looking for some robust research and thoughtful, thorough writing on the subject. 
+So I'm looking for some robust research and thoughtful, thorough writing on the subject of energy medicine. 
 
 I'd love to get hooked up to the Russian research on energy, but I'm not sure where to start.
 
