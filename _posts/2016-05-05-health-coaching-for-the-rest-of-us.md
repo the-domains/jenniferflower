@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-05T17:40:54.543Z'
-dateModified: '2016-05-05T17:40:15.269Z'
+datePublished: '2016-05-05T17:53:42.377Z'
+dateModified: '2016-05-05T17:53:37.959Z'
 title: Health Coaching For the Rest of Us?
 author: []
 authors: []
@@ -73,7 +73,9 @@ Isn't that what I did by going to graduate school? But that took a looooooong ti
 
 Isn't that what most coaches are doing anyway? Working on themselves? They're all just at different levels. Maybe the most successful ones are at the most advanced levels.
 
-To you have to be at an advanced level to be a successful coach?
+**Gotta Be Ripped?**
+
+Do you have to be at an advanced level to be a successful coach?
 
 I've already spent a lot of time learning about functional medicine.
 
@@ -104,6 +106,8 @@ Frontal lobe damage - difficulty planning and executing
 Limbic system damage - difficulty regulating emotions, poor memory.
 
 You can see this in the scans. Doesn't it have huge implications for whether someone can actually do what it takes to get healthy? To feel like they can? To stay focused and motivated?
+
+**The Rest of Us**
 
 There is a large group of us who, for what I suspect are brain reasons, have a great deal of difficulty deploying these functional medicine approaches. They get left behind in the rubble, on the sofa, at the bar. It's just too hard for us to leap ahead spectacularly the way the ones in the news do.
 
@@ -136,6 +140,8 @@ But I don't know that yet about coaching. I'd have to learn that as I went along
 And I'm 58!
 
 Holy shit.
+
+**It Depends.**
 
 There's also the question of phase in the process. Some people would be too sick for me to work with, others, too well. I know that sounds weird, but think about it: Some people would need a lot more help than I can give them, they'd need other practitioners, need to talk more frequently than I have time for, etc. Others would be impatient with my lack of detailed knowledge in some areas, like high-level fitness.
 
