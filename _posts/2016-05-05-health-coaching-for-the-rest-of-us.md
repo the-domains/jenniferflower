@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-05T16:59:25.206Z'
-dateModified: '2016-05-05T16:58:09.127Z'
+datePublished: '2016-05-05T17:40:54.543Z'
+dateModified: '2016-05-05T17:40:15.269Z'
 title: Health Coaching For the Rest of Us?
 author: []
 authors: []
@@ -21,6 +21,8 @@ url: health-coaching-for-the-rest-of-us/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad2bc208-28cd-495c-b111-4194cf6e9dea.jpg)
+
 # Health Coaching For the Rest of Us?
 
 It's something I do all the time in my personal life. Maybe not as well as I should.
@@ -47,11 +49,11 @@ What if you haven't the money to spare at all? What do you do? Give up completel
 
 **Brain Power.**
 
-Every single practitioner I have read or consulted has underestimated that brain symptoms profoundly impair ability to adhere to a program. It's not that they are unaware that the brain is compromised by illness, they're sounding the alarm about that. But they're not taking it adequately into account in the way they design their programs and consulting to clients.
+Every single practitioner I have read or consulted has underestimated how profoundly and pervasively brain symptoms impair some people's ability to adhere to a program. It's not that they are unaware that the brain is compromised by illness, they're sounding the alarm about that. But they're not taking it adequately into account in the way they design their programs and consulting to clients.
 
-What happens is they draw in lots of people who are literally dying, if slowly, for this help but most people have brains that are now so compromised that they have trouble following instructions.
+What happens is they draw in lots of people who are literally dying, if slowly, for this help but many people have brains that are now so compromised that they have trouble following instructions.
 
-Take Daniel Amen's whole brain-scan thing. Take a look at some of those brains. He's the first one to tell you they're a mess. 
+Take Daniel Amen's whole brain-scan thing. Take a look at some of those brains. He's the first one to tell you they're a mess. They sure look bad.
 
 Yes, He's doing a good deed now, he's got a 6-month, free weekly program to walk people through what they have to know and do. 
 
@@ -137,7 +139,7 @@ Holy shit.
 
 There's also the question of phase in the process. Some people would be too sick for me to work with, others, too well. I know that sounds weird, but think about it: Some people would need a lot more help than I can give them, they'd need other practitioners, need to talk more frequently than I have time for, etc. Others would be impatient with my lack of detailed knowledge in some areas, like high-level fitness.
 
-The critical thing is I would not be acting acting as physician, I would not be acting as a therapist. I would be acting as someone who is prepared to engage with the mental challenges of people who are ready to work on getting healthier.
+The critical thing is I would not be acting acting as physician, I would not be acting as a therapist. I would be acting as a health coach, but with specific attention to the mental challenges of people who are ready to work on getting healthier. 
 
 Geez. That sounds like a lot of work, doesn't it? Am I too old for this?
 
