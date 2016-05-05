@@ -4,11 +4,18 @@
         <description><![CDATA[Jennifer Flower's Blog]]></description>
         <link>https://thegrid.ai/jenniferflower/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 19:35:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2016 16:59:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jenniferflower/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Health Coaching For the Rest of Us?]]></title>
+            <description><![CDATA[<article><h1>Health Coaching For the Rest of Us?</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/jenniferflower/health-coaching-for-the-rest-of-us/index.html</link>
+            <guid isPermaLink="false">c03bcf20-62ad-4e31-9e28-86b61e90c0d3</guid>
+            <pubDate>Thu, 05 May 2016 16:59:25 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Having the Energy]]></title>
-            <description><![CDATA[<article><h1>Having the Energy</h1><p>Wow, this Influenza B virus is a doozy. It’s been over two weeks and I’m still a wet dishrag.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab797e9a-a95e-4cc4-846a-c0f0846a3d30.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ab797e9a-a95e-4cc4-846a-c0f0846a3d30.jpg">]]></description>
             <link>https://thegrid.ai/jenniferflower/having-the-energy/index.html</link>
             <guid isPermaLink="false">5db8221d-c0f8-4a43-9b26-38cb051e1f4e</guid>
             <pubDate>Sat, 09 Apr 2016 19:34:56 GMT</pubDate>
@@ -70,13 +77,6 @@ and why.</p></article>]]></description>
             <link>https://thegrid.ai/jenniferflower/snowball-victories/index.html</link>
             <guid isPermaLink="false">6dbe55e6-14fd-4919-b2a6-15af4b7f435f</guid>
             <pubDate>Tue, 15 Mar 2016 16:46:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The No-Go Zone]]></title>
-            <description><![CDATA[<article><h1>The No-Go Zone</h1><p>The no-go zone is where you always are, almost.</p></article>]]></description>
-            <link>https://thegrid.ai/jenniferflower/the-no-go-zone/index.html</link>
-            <guid isPermaLink="false">48830052-f626-42cb-9c7d-1f27911b2b4e</guid>
-            <pubDate>Mon, 14 Mar 2016 15:15:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
