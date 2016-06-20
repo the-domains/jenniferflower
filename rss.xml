@@ -4,8 +4,15 @@
         <description><![CDATA[Jennifer Flower's Blog]]></description>
         <link>https://thegrid.ai/jenniferflower/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 May 2016 17:53:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 17:26:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jenniferflower/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Planning on Wanting To</p>]]></description>
+            <link>https://thegrid.ai/jenniferflower/planning-on-wanting-to/index.html</link>
+            <guid isPermaLink="false">c0d050f0-d723-4da2-86a8-f4e9f3a1ee85</guid>
+            <pubDate>Mon, 20 Jun 2016 17:26:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Health Coaching For the Rest of Us?]]></title>
             <description><![CDATA[<article><h1>Health Coaching For the Rest of Us?</h1><p></p></article>]]></description>
@@ -70,13 +77,6 @@ and why.</p></article>]]></description>
             <link>https://thegrid.ai/jenniferflower/what-the-left-hand-is-doing/index.html</link>
             <guid isPermaLink="false">be553297-711b-4a8e-876b-670188f78261</guid>
             <pubDate>Thu, 17 Mar 2016 02:02:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Snowball Victories]]></title>
-            <description><![CDATA[<article><h1>Snowball Victories</h1><p>When I was a kid, the modal winter pic was of someone who’d just gotten a snowball in the face. It happened to me only twice. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/929aa6b19a2e6de2c1337c9af43c4355f0af646d.jpg"></article>]]></description>
-            <link>https://thegrid.ai/jenniferflower/snowball-victories/index.html</link>
-            <guid isPermaLink="false">6dbe55e6-14fd-4919-b2a6-15af4b7f435f</guid>
-            <pubDate>Tue, 15 Mar 2016 16:46:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
