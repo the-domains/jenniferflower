@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Planning on Wanting To
-datePublished: '2016-06-20T17:56:53.037Z'
-dateModified: '2016-06-20T17:56:28.189Z'
+datePublished: '2016-06-20T18:06:50.431Z'
+dateModified: '2016-06-20T18:06:47.568Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-20-planning-on-wanting-to.md
@@ -17,8 +17,6 @@ url: planning-on-wanting-to/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20ae54d4-e4f4-4e89-823e-b976f4c0814b.jpg)
-
 Planning on Wanting To
 
 Some decisions don't get easier as you get older, especially the important ones you've delayed.
@@ -78,3 +76,4 @@ On what many consider to be the downward slope of their lives, in terms of years
 My project is now is to get out that big heavy shovel again, go back to those steaming embers, thrust in the blade and toss the detritus aside to see what lies or runs beneath.
 
 Fuck you, mixed metaphors, just do as I say.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/80d307be-141e-415b-bb6a-7e2000198173.jpg)
