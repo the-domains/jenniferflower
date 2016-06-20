@@ -5,18 +5,20 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Planning on Wanting To
-datePublished: '2016-06-20T17:26:32.067Z'
-dateModified: '2016-06-20T17:10:08.132Z'
+datePublished: '2016-06-20T17:56:53.037Z'
+dateModified: '2016-06-20T17:56:28.189Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-20-planning-on-wanting-to.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-20-planning-on-wanting-to.md
 url: planning-on-wanting-to/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/20ae54d4-e4f4-4e89-823e-b976f4c0814b.jpg)
+
 Planning on Wanting To
 
 Some decisions don't get easier as you get older, especially the important ones you've delayed.
@@ -43,7 +45,7 @@ Usually, without some conscious effort to observe and learn about the psychologi
 
 Saddles, fires, it's a mixed metaphor, just hang on, that's the way life is.
 
-It can be hard work to figure this stuff out, why you're doing this stuff over and over again, making the same mistakes, coming up empty with a craving for something -- success, a good mother, belonging -- that you rush into something else to find it. 
+It can be hard work to figure this stuff out, why you're doing this stuff over and over again, making the same mistakes, coming up empty with a craving for something -- success, a good mother, belonging, safety -- that you rush into something else to find it. 
 
 There are tools that can help, many new tools, in the form of better health practices to get you grounded and more traction, better tools in the form of new approaches for tangling successfully with your habits, and a lot more in our shared culture to help you because now more of us accept these as worthy goals. But those are not the subject of this piece.
 
