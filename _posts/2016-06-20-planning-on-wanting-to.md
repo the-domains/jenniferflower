@@ -7,8 +7,8 @@ keywords: []
 description: >-
   "Why keep pushing and spending to chase this repetition monster down and
   strangle it in its den?"
-datePublished: '2016-06-22T16:16:12.251Z'
-dateModified: '2016-06-22T16:15:08.217Z'
+datePublished: '2016-06-22T17:05:59.671Z'
+dateModified: '2016-06-22T17:05:36.450Z'
 title: Planning on Wanting To
 author: []
 sourcePath: _posts/2016-06-20-planning-on-wanting-to.md
@@ -45,7 +45,7 @@ What are our personal fires? Repeating patterns in our lives like finding onesel
 
 All this huffing and divorcing can be so upsetting that many people just fail to learn the lessons right in front of their faces and run to the next opportunity to try to do it better somehow.
 
-Usually, without some conscious effort to observe and learn about the psychological causes, you're back in the saddle riding the same horse in a different landscape. Yes, the details are mostly psychological. No I'm not saying there are no other components. And guess whose psychology we're talking about? 
+Usually, without some conscious effort to observe and learn about the psychological factors, like persisting limiting beliefs, you're back in the saddle riding the same horse in a different landscape. Yes, there are psychological factors. No I'm not saying there are no other components. The distinction is now an old one between mind and body, but there are implications for intervention in the distinctions. When you have to talk to yourself, you're doing it psychologically, And we're not talking about someone else's. Guess whose we are talking about? 
 
 Saddles, fires, it's a mixed metaphor, just hang on, that's the way life is.
 
