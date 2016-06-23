@@ -7,8 +7,8 @@ keywords: []
 description: >-
   "Why keep pushing and spending to chase this repetition monster down and
   strangle it in its den?"
-datePublished: '2016-06-22T17:05:59.671Z'
-dateModified: '2016-06-22T17:05:36.450Z'
+datePublished: '2016-06-23T14:47:16.170Z'
+dateModified: '2016-06-23T14:47:00.091Z'
 title: Planning on Wanting To
 author: []
 sourcePath: _posts/2016-06-20-planning-on-wanting-to.md
@@ -45,7 +45,7 @@ What are our personal fires? Repeating patterns in our lives like finding onesel
 
 All this huffing and divorcing can be so upsetting that many people just fail to learn the lessons right in front of their faces and run to the next opportunity to try to do it better somehow.
 
-Usually, without some conscious effort to observe and learn about the psychological factors, like persisting limiting beliefs, you're back in the saddle riding the same horse in a different landscape. Yes, there are psychological factors. No I'm not saying there are no other components. The distinction is now an old one between mind and body, but there are implications for intervention in the distinctions. When you have to talk to yourself, you're doing it psychologically, And we're not talking about someone else's. Guess whose we are talking about? 
+Usually, without some conscious effort to observe and learn about the psychological factors, like persisting limiting beliefs, you're back in the saddle riding the same horse in a different landscape. Yes, there are psychological factors. No I'm not saying there are no other components. The distinction is now an old one between mind and body, but there are implications in the distinction for intervention. When you have to talk to yourself, you're doing it psychologically, And we're not talking about someone else's. Guess whose we are talking about? 
 
 Saddles, fires, it's a mixed metaphor, just hang on, that's the way life is.
 
@@ -79,7 +79,7 @@ Just plain wanting is hard for me these days. Wanting to do something, wanting t
 
 Yet, on what many consider to be the downward slope of their lives, in terms of years, I am not feeling downward, I am feeling upward. I've been riding at the back of the waves, the person who usually sees the forming curve, but who, for a host of complex reasons, has not paddled to ride the crests. I know that somewhere in here I've got the juice and so I've kept pace at a short distance, reading the signs, getting pulled along from roller to roller, watching, thinking, and holding back. 
 
-I know I'm coming up to an opportunity to make some really interesting and important choices and that's going to require being much clearer than I've been, than we've been, about some stuff we've been talking about for a while.
+I know I'm coming up to an opportunity to make some really interesting and important moves and that's going to require being much clearer than I've been, than we've been, about some stuff we've been talking about for a while.
 
 My project is now is to get out that big heavy shovel again, go back to those steaming embers, thrust in the blade and toss the detritus aside to see what lies or runs beneath.
 
