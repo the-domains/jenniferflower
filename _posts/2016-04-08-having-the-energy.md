@@ -3,21 +3,18 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: 'Wow, this Influenza B virus is a doozy. It’s been over two weeks and I’m still a wet dishrag.'
-datePublished: '2016-04-09T19:34:56.099Z'
-dateModified: '2016-04-09T19:34:55.579Z'
-title: Having the Energy
+description: >-
+  Wow, this Influenza B virus is a doozy. It’s been over two weeks and I’m still
+  a wet dishrag.
+datePublished: '2016-06-28T15:20:32.750Z'
+dateModified: '2016-06-28T15:20:00.268Z'
+title: ''
 author: []
 sourcePath: _posts/2016-04-08-having-the-energy.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: having-the-energy/index.html
 _type: Article
 
@@ -26,11 +23,13 @@ _type: Article
 
 # Having the Energy
 
+_"Truth is not the starting point, despite what many purists tell you."_
+
 Wow, this Influenza B virus is a doozy. It's been over two weeks and I'm still a wet dishrag.
 
 My husband is feeling a little better than I am but he has a much more aggressive immune system. And a purer heart.
 
-My immune system is kinda like, "Oh really? Another assault? Hang one, I'll be right with you. I'm watching a snail."
+My immune system is kinda like, "Oh really? Another assault? Hang on, I'll be right with you. I'm watching a snail."
 
 I hear this flu usually lingers for another couple of weeks, but our neighbor has been sick for four weeks and he's still getting low-grade fevers.
 
