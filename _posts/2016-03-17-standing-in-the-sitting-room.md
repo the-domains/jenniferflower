@@ -3,21 +3,16 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: I just got bored. Always a red flag.
-datePublished: '2016-03-17T18:28:00.804Z'
-dateModified: '2016-03-17T18:27:11.011Z'
+datePublished: '2016-07-05T22:01:16.077Z'
+dateModified: '2016-07-05T22:01:14.776Z'
 title: Standing in the Sitting Room
 author: []
 sourcePath: _posts/2016-03-17-standing-in-the-sitting-room.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: false
 url: standing-in-the-sitting-room/index.html
 _type: Article
 
@@ -56,7 +51,7 @@ I was mostly concerned with how much I'd have to practice. Another habit, if you
 
 I wasn't sure I was doing it for serious. My parents weren't either.
 
-Everyone just thought it was a good idea.A-child-should-have-a sort of thing.
+Everyone just thought it was a good idea. A-child-should-have-a sort of thing.
 
 So it was classical piano from a lady who told me to pretend my fingers were little hammers.
 
@@ -82,7 +77,7 @@ The irony is that it made me like classical music more, I adjusted better to wha
 
 I was making strides, after all. I was better than before so that felt like progress. Well, it is progress if you define it as better.
 
-It was so better that when it came time for me to choose a high school, I applied to two: [Fieldston][1], a college prep school; and [Music & Art][2], a public magnet school for kids specializing in the arts. Both highly competitive.
+It was so better that when it came time for me to choose a high school, I applied to two: a college prep school; and a public magnet school for kids specializing in the arts. Both highly competitive.
 
 I got into both.
 
@@ -150,11 +145,11 @@ Expression, other than piano, was just not in the cards for me at the time.
 
 Playing classical piano drew on the most fearful aspects of my personality at the time, an outward focus, a need for order, a routine, and a reason to be at one end of the house when everyone was feeling tense and irritable at the other end.
 
-Seth Godin, in his book [Linchpin][3], said something very interesting the other day. He was talking about the difference between artists and other people. He defines an artist as someone who uses their humanity to transform something for other people. A loose definition, relative to others, probably.
+Seth Godin, in his book [Linchpin][1], said something very interesting the other day. He was talking about the difference between artists and other people. He defines an artist as someone who uses their humanity to transform something for other people. A loose definition, relative to others, probably.
 
 But relevant to what I'm working on here.
 
-To Seth, (if I may call him Seth, which is what Google calls him) as he stated (which I'm paraphrasing) in passing in his [interview][4] with Tim Ferriss, a classical musician is someone who executes on something, not so much an artist, who transforms something. 
+To Seth, (if I may call him Seth, which is what Google calls him) as he stated (which I'm paraphrasing) in passing in his [interview][2] with Tim Ferriss, a classical musician is someone who executes on something, not so much an artist, who transforms something. 
 
 Now, I don't feel this is fair, because any artist who interprets is transforming something from what someone else started with to something of their own.
 
@@ -221,7 +216,5 @@ Are we creating multiple realities, shifting from day to day, among which we cho
 A temporary ending?
 
 [0]: http://www.juilliard.edu/about
-[1]: https://www.ecfs.org/
-[2]: https://en.wikipedia.org/wiki/The_High_School_of_Music_%26_Art
-[3]: http://www.amazon.com/Linchpin-Are-Indispensable-Seth-Godin/dp/1591844096
-[4]: http://fourhourworkweek.com/2016/02/10/seth-godin/
+[1]: http://www.amazon.com/Linchpin-Are-Indispensable-Seth-Godin/dp/1591844096
+[2]: http://fourhourworkweek.com/2016/02/10/seth-godin/
