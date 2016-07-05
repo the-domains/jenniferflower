@@ -4,8 +4,15 @@
         <description><![CDATA[Jennifer Flower's Blog]]></description>
         <link>https://thegrid.ai/jenniferflower/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jul 2016 15:57:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2016 20:09:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jenniferflower/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9198c558-3cd8-4d7a-9f12-8514202a195f.jpg">]]></description>
+            <link>https://thegrid.ai/jenniferflower/out-of-the-frying-pan-into-the-crucible/index.html</link>
+            <guid isPermaLink="false">af409296-4579-4521-bfa1-6e9158ae92e8</guid>
+            <pubDate>Tue, 05 Jul 2016 20:09:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Cup of Diesel]]></title>
             <description><![CDATA[<article><h1>A Cup of Diesel</h1><p>I fall squarely in between Introvert and Extrovert on the Myers-Briggs scale. I guess I always found that a little confusing. But I cleverly devised a solution to the conflict without realizing it.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef6408ba-ec8b-4a82-9903-969977e1545a.jpg"></article>]]></description>
@@ -70,13 +77,6 @@ and why.</p></article>]]></description>
             <link>https://thegrid.ai/jenniferflower/whos-on-first/index.html</link>
             <guid isPermaLink="false">5aed3928-9d17-4496-9f05-e57ca817aac7</guid>
             <pubDate>Thu, 24 Mar 2016 16:13:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[“We Will Prevail,” Mr. President]]></title>
-            <description><![CDATA[<article><h1>“We Will Prevail,” Mr. President</h1><p>She wants a check.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21a170de-7068-429d-ab52-cafaab85dfd3.jpg"></article>]]></description>
-            <link>https://thegrid.ai/jenniferflower/we-will-prevail-mr-president/index.html</link>
-            <guid isPermaLink="false">b5f3511b-8a0b-49dc-8eb3-080b8e6ca46c</guid>
-            <pubDate>Fri, 18 Mar 2016 17:53:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
