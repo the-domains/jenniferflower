@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Out of the Frying Pan into the Crucible
-datePublished: '2016-07-05T22:00:29.299Z'
-dateModified: '2016-07-05T22:00:20.817Z'
+datePublished: '2016-07-06T16:54:17.278Z'
+dateModified: '2016-07-06T16:54:11.655Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-05-out-of-the-frying-pan-into-the-crucible.md
