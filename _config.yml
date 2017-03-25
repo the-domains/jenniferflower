@@ -1,29 +1,42 @@
-name: Jennifer Flower
-favicon: null
-layout_spectrum: 0.03674620552919805
-typography_spectrum: 0.4230051417835057
-title: Jennifer Flower's Blog
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+typography_spectrum: 0.7719452028543605
+color:
+  brandColors:
+    - '#73603D'
+    - '#BF8A49'
+    - '#F2CA80'
+    - '#5E5A59'
+    - '#0D0D0D'
+  brandStrength: 0.3592066547229406
+  lightness: 0.695475939392103
+  saturation: 0.7388751690466842
+  rhythmicContrast: 0.8855296013389926
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#11120d'
-    - '#e1e9ec'
-    - '#6c6f5a'
-    - '#00d2e3'
-    - '#d52173'
-  brandStrength: 0.5650796431582421
-  lightness: 0.4375
-  saturation: 0.1875
-  rhythmicContrast: 0.75
-purpose: []
+layout_spectrum: 0.5751496348846334
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Jennifer Flower
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: JenniferPhD.com
+    url: 'http://JenniferPh.D.com'
+    type: external
+  - name: HowNOTtoGuides.com
+    url: 'http://HowNOTtoGuides.com'
+    type: external
+favicon: null
+title: Jennifer Flower's Blog
+content: []
+description: What I write when not writing other things
+purpose:
+  - type: external
+    url: 'http://JenniferPhD.com'
+    label: or try my business site
+github: true
