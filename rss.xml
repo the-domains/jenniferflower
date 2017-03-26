@@ -4,9 +4,16 @@
         <description><![CDATA[Jennifer Flower's Blog]]></description>
         <link>https://thegrid.ai/jenniferflower/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Mar 2017 21:31:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Mar 2017 23:11:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jenniferflower/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 26 Mar 2017 21:31:26 GMT</pubDate>
+        <pubDate>Sun, 26 Mar 2017 23:11:56 GMT</pubDate>
+        <item>
+            <title><![CDATA[The No-Go Zone]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ac7cb03-4e25-4aea-bf24-ec2180336f1c.jpg">,<h1><strong>The No-Go Zone</strong></h1>,<p>The no-go zone is where you always are, almost.</p>,<p>It’s what you circle with your back to it, your legs slightly warm from the knowledge that what’s behind you can sear the core out of your daily life. The thing is, it already has.</p>]]></description>
+            <link>https://thegrid.ai/jenniferflower/the-no-go-zone/index.html</link>
+            <guid isPermaLink="false">95a4a4cf-bca8-4fa9-a901-8acdfb56da01</guid>
+            <pubDate>Sun, 26 Mar 2017 23:11:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How NOT to RV: The Sequel]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d566ccc4e59f1cbbc71a8d6f7f6062b39301a33.jpg">,<h1>How NOT to RV: The Sequel</h1>,<p>I wrote a book called <a href="http://bit.ly/hntrvkindle" title="How NOT to RV: And RVer's Guide to RVing in the Absurd">How NOT to RV: An RVer’s Guide to RVing in the Absurd</a>. It’s a funny, instructional book full of cautionary tales, laced with hopefulness and philosophical musings.</p>,<p>It’s been selling well on Amazon with almost no effort from me.</p>]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/jenniferflower/snowball-victories/index.html</link>
             <guid isPermaLink="false">6dbe55e6-14fd-4919-b2a6-15af4b7f435f</guid>
             <pubDate>Wed, 11 Jan 2017 05:14:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What the Left Hand is Doing]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e46cb01aa9af012867f474d4897f480a1fa854a.jpg">,<h1>What the Left Hand is Doing</h1>,<p>When I was in graduate school there was a lot of fuss about laterality. Which hemisphere of the brain does what, that sort of thing.</p>,<p>You’d constantly hear the story in Psych 101 classes about the folks with split brains, meaning their hemispheres were not connected properly through the corpus collosum, a big band of fibers usually bridging one side of your brain to the other.</p>]]></description>
-            <link>https://thegrid.ai/jenniferflower/what-the-left-hand-is-doing/index.html</link>
-            <guid isPermaLink="false">be553297-711b-4a8e-876b-670188f78261</guid>
-            <pubDate>Wed, 11 Jan 2017 05:14:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
