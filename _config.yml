@@ -26,7 +26,7 @@ cta:
   version: null
 navigation:
   - name: JenniferPhD.com
-    url: 'http://JenniferPh.D.com'
+    url: 'http://JenniferPhD.com'
     type: external
   - name: HowNOTtoGuides.com
     url: 'http://HowNOTtoGuides.com'
