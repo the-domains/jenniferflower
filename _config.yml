@@ -32,8 +32,5 @@ favicon: null
 title: Jennifer Flower's Blog
 content: []
 description: What I write when not doing other things
-purpose:
-  - type: external
-    url: 'http://JenniferPhD.com'
-    label: or try my business site
+purpose: []
 github: true
