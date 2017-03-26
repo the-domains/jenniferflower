@@ -25,9 +25,6 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: JenniferPhD.com
-    url: 'http://JenniferPhD.com'
-    type: external
   - name: HowNOTtoGuides.com
     url: 'http://HowNOTtoGuides.com'
     type: external
