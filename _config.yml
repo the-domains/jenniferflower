@@ -28,7 +28,8 @@ navigation:
   - name: HowNOTtoGuides.com
     url: 'http://HowNOTtoGuides.com'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/6868c54b-638c-4058-b6a7-aafdd7adce75.gif
 title: Jennifer Flower's Blog
 content: []
 description: What I write when not doing other things
