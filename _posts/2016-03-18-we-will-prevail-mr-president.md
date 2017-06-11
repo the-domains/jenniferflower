@@ -4,15 +4,15 @@ hasPage: true
 inLanguage: null
 keywords: []
 description: She wants a check.
-datePublished: '2017-06-11T16:02:20.493Z'
-dateModified: '2017-06-11T16:02:20.255Z'
+datePublished: '2017-06-11T16:02:28.149Z'
+dateModified: '2017-06-11T16:02:27.975Z'
 title: '“We Will Prevail,” Mr. President'
 author: []
 authors: []
 publisher: {}
 sourcePath: _posts/2016-03-18-we-will-prevail-mr-president.md
 via: {}
-datePublishedOriginal: '2017-06-11T16:02:20.493Z'
+datePublishedOriginal: '2017-06-11T16:02:28.149Z'
 starred: false
 url: we-will-prevail-mr-president/index.html
 _type: Article
