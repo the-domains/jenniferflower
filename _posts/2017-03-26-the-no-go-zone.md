@@ -1,16 +1,16 @@
 ---
 inFeed: true
 description: 'The no-go zone is where you always are, almost.'
-dateModified: '2017-03-26T22:48:25.859Z'
-datePublished: '2017-03-26T23:11:55.440Z'
+dateModified: '2017-06-11T16:11:54.701Z'
+datePublished: '2017-06-11T16:11:56.347Z'
 title: The No-Go Zone
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-26-the-no-go-zone.md
 starred: false
 datePublishedOriginal: '2017-03-26T23:11:55.440Z'
-sourcePath: _posts/2017-03-26-the-no-go-zone.md
 url: the-no-go-zone/index.html
 _type: Article
 
@@ -59,7 +59,7 @@ Chances are there's been a vicious cycle, in which my personality and defensive 
 
 Sounds official doesn't it?
 
-Well, sure. I didn't get educated up the wazoo and earn multiple degrees without gaining the ability to distance myself from my experience with technical language. What kind of professional would I be?
+Well, sure. I didn't earn multiple degrees without gaining the ability to distance myself from my experience with technical language. What kind of professional would I be?
 
 (_That's a joke, BTW. No good professional should treat a patient that way but we do at times, and also treat ourselves that way surprisingly often._)
 
