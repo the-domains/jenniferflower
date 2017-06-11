@@ -1,23 +1,19 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
 inLanguage: null
-starred: false
 keywords: []
 description: She wants a check.
-datePublished: '2016-03-18T17:53:22.974Z'
-dateModified: '2016-03-18T17:53:05.943Z'
+datePublished: '2017-06-11T16:02:20.493Z'
+dateModified: '2017-06-11T16:02:20.255Z'
 title: '“We Will Prevail,” Mr. President'
 author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 sourcePath: _posts/2016-03-18-we-will-prevail-mr-president.md
-published: true
+via: {}
+datePublishedOriginal: '2017-06-11T16:02:20.493Z'
+starred: false
 url: we-will-prevail-mr-president/index.html
 _type: Article
 
@@ -29,6 +25,8 @@ _type: Article
 She wants a check.
 
 Nikki Giovanni knows the value of her words.
+
+---
 
 They are not metaphorical where checks are concerned.
 
@@ -46,7 +44,9 @@ It's where we are and where we need to be.
 
 It's what we've got to do.
 
-All those fliers on creaky mountain porches, staring up out of their private selves
+All those fliers on creaky mountain porches, 
+
+staring up out of their private selves
 
 into the glorious density of space.
 
@@ -58,7 +58,7 @@ Who we are makes sense
 
 when you take space into account.
 
-The terrible passage 
+The terrible passage
 
 was dark, mean, hopeless,
 
@@ -72,7 +72,6 @@ They sang their way here
 
 and we'll sing our way there.
 
-  
 _(On hearing Nikki Giovanni [On Being][0])_
 
 [0]: http://www.onbeing.org/program/nikki-giovanni-soul-food-sex-and-space/8501
