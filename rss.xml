@@ -6,7 +6,14 @@
         <generator>The Grid</generator>
         <lastBuildDate>Sun, 11 Jun 2017 16:02:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jenniferflower/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 11 Jun 2017 16:02:22 GMT</pubDate>
+        <pubDate>Sun, 11 Jun 2017 16:02:29 GMT</pubDate>
+        <item>
+            <title><![CDATA[“We Will Prevail,” Mr. President]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21a170de-7068-429d-ab52-cafaab85dfd3.jpg">,<h1>“We Will Prevail,” Mr. President</h1>,<p>She wants a check.</p>,<p>Nikki Giovanni knows the value of her words.</p>]]></description>
+            <link>https://thegrid.ai/jenniferflower/we-will-prevail-mr-president/index.html</link>
+            <guid isPermaLink="false">ef2e14c4-df59-4241-b02b-9fedbf1c6d42</guid>
+            <pubDate>Sun, 11 Jun 2017 16:02:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[“We Will Prevail,” Mr. President]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/21a170de-7068-429d-ab52-cafaab85dfd3.jpg">,<h1>“We Will Prevail,” Mr. President</h1>,<p>She wants a check.</p>,<p>Nikki Giovanni knows the value of her words.</p>]]></description>
@@ -69,13 +76,6 @@
             <link>https://thegrid.ai/jenniferflower/once-more-with-feeling/index.html</link>
             <guid isPermaLink="false">157e0612-7623-4926-9666-91d90c177098</guid>
             <pubDate>Wed, 11 Jan 2017 05:15:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Cup of Diesel]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef6408ba-ec8b-4a82-9903-969977e1545a.jpg">,<h1>A Cup of Diesel</h1>,<blockquote>&mldr; simply cooking dinner and offering it to others to eat, relaxing together on our deck with our bare feet up in the sun; these things make everything, the confusion, the indecision, the fears, they make the long process of shedding that old self easier.&quot;</blockquote>]]></description>
-            <link>https://thegrid.ai/jenniferflower/a-cup-of-diesel/index.html</link>
-            <guid isPermaLink="false">810c8624-a1d6-49fc-a708-52bf6887d183</guid>
-            <pubDate>Wed, 11 Jan 2017 05:15:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
